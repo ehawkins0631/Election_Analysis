@@ -4,9 +4,9 @@ import csv
 import os
 
 # Add a variable to load a file from a path.
-file_to_load = os.path.join("Resources", "election_results.csv")
+file_to_load = os.path.join("C:/Users/ehawk/Desktop/Class Folder/Election_Analysis/Resources", "election_results.csv")
 # Add a variable to save the file to a path.
-file_to_save = os.path.join("analysis", "election_analysis.txt")
+file_to_save = os.path.join("C:/Users/ehawk/Desktop/Class Folder/Election_Analysis/Analysis", "election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
@@ -119,7 +119,7 @@ with open(file_to_load) as election_data:
     # print(largest_county_summary)
  
     # 8: Save the county with the largest turnout to a text file.
-    txt_file.write(largest_county_summary)
+    # txt_file.write(largest_county_summary)
 
     # Save the final candidate vote count to the text file.
     for candidate_name in candidate_votes:
