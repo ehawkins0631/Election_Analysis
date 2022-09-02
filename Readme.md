@@ -33,6 +33,12 @@ Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 The winner of the election was:
 Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins0630
+
+https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
 Figure 1:   
 
 Challenge Overview
