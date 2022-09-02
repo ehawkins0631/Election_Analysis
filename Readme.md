@@ -60,6 +60,8 @@ The findings of the following tasks were added to the final election audit:
 2. Calculate the percentage of votes each county contributed to the election.
 3. Determine which county had the largest turnout.
 
+
+
 Challenge Summary
 
 Election Results
