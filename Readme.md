@@ -83,6 +83,7 @@ Diana DeGette
 Vote Count: 272,892
 Percentage: 73.8%
 
+
 Figure 1:
 
 ![image](https://user-images.githubusercontent.com/101227930/188056284-2f556e74-3790-42a0-ba2c-752ccb081ed5.png)
