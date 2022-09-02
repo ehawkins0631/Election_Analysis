@@ -21,6 +21,7 @@ The analysis of the election show that:
 
 There were 369,711 votes cast in the election
 
+
 The countny turnout results were:
 
 Jefferson County contributed 10.5% of the vote with 38,855 number of votes.
